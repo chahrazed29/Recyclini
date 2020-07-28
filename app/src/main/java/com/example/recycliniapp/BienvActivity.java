@@ -21,7 +21,7 @@ public class BienvActivity extends AppCompatActivity {
         insecrireTextView.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(MainActivity.this,PerEntActivity.class);
+                Intent intent=new Intent(BienvActivity.this,PerEntActivity.class);
                 startActivity(intent);
                 finish();
                 // finishFromChild((Activity) LoginActivity);
@@ -35,7 +35,7 @@ public class BienvActivity extends AppCompatActivity {
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-            Intent intent=new Intent(MainActivity.this,LoginActivity.class);
+            Intent intent=new Intent(BienvActivity.this,LoginActivity.class);
                 startActivity(intent);
                 finish();
             }
