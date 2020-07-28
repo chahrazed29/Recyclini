@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#32BE8F</color>
+    <color name="colorPrimaryDark">#000243</color>
+    <color name="cp">#6200EE</color>
+    <color name="cpd">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="WHITE">#FFFF</color>
+    <color name="bleu">#000243</color>
+    <color name="green">#068E53</color>
+    <color name="white">#FFFFFF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gold">#F4D708</color>
+</resources>

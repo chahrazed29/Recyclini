@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecycliniApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="nom_d_utilisateur">Nom D\'utilisateur</string>
+    <string name="mot_de_passe">Mot de Passe</string>
+    <string name="todo">TODO</string>
+    <string name="t_lephone">Télephone</string>
+    <string name="s_inscrire">S\'inscrire</string>
+</resources>
